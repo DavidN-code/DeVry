@@ -1,0 +1,3 @@
+Data analysis with Python
+
+This project covers data analysis using Python and is divided into six parts.  Each week builds upon the project resulting in an analysis of weather data downloaded from a cloud data source, stored in a database, extracted and processed.  The design and development process of the system includes planning, software setup, programming, and data analysis.  It encompasses the many aspects of the software development process.
